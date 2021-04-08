@@ -4,6 +4,6 @@
 ELIAS NICOLAS LISCHINSKY
 
 
-![mi foto](foto.jpg)
+![mi foto](foto.jpg.JPG)
 
 Tengo 20 y soy hincha de River Plate
